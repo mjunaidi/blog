@@ -2,7 +2,7 @@
 ![](./img/preview.png)
 
 ### Live demo
-https://mjunaidi.github.io/cv
+https://mjunaidi.github.io/blog
 
 ## Setup
 ### Requirement
